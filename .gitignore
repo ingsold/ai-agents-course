@@ -31,6 +31,9 @@ yarn-error.log
 # macOS
 .DS_Store
 
+# Obsidian
+.obsidian/
+
 # Local env / tools
 .claude/
 
